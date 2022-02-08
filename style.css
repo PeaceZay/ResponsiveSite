@@ -71,8 +71,8 @@ header {
    
    
    
-   @media (min-width: 576px) {
-     .container {
+   @media (max-width: 576px) {
+     body {
        display: grid;
         background-color: white;
        color: black;
